@@ -91,7 +91,7 @@ Automated Payment Processing Moneris Solutions reduce POS downtime, improve oper
 [Moneris Online Payment - Quick and Easy Integration](https://go.moneris.com/onlinepayments?utm_source=google&utm_medium=cpc&utm_campaign=mol+mol+acquisition+mol+online+payments&utm_content=original+products+and+services+google+cta+mol+online+payments+branded+online+payment+processing++++english&cmfc=proactive&dsch=paid&trgtaud=prospect+merchants&audind=&cstjrnstg=awareness&cstprs=&cmpobj=acquisition&cmpfcs=product&cmpsgm=in+person+payments&cmpprnt=mol&cmpnm=mol+acquisition&cmpsub=mol+online+payments&cntapp=original&cntpll=products+and+services&cntheme=google+cta+mol+online+payments+branded+online+payment+processing+++&cntlng=english&creative=627874970773&keyword=moneris%20online%20payments&matchtype=p&network=g&device=c&gclid=CjwKCAiApvebBhAvEiwAe7mHSK_GdKb310U-niHRHJ94PnT4rr9bdQ_yR64TZXCMEoEQZAxkOhoNRxoC4rwQAvD_BwE)<br>
 [Why More Canadian Businesses Need to Ramp Up Their Online Security](https://www.moneris.com/en/insights/posts/fraud-prevention/why-more-canadian-businesses-need-to-ramp-up-their-online-security)
 [Payment Gateways: Main Types + How They Work](https://www.bigcommerce.com/articles/ecommerce/payment-gateways/)
-![Moneris](![R](https://user-images.githubusercontent.com/118142182/203639971-fcfbff9d-b41d-473c-ab55-c4268f36b6a2.jpg)
+![](https://user-images.githubusercontent.com/118142182/203639971-fcfbff9d-b41d-473c-ab55-c4268f36b6a2.jpg)
 
 
 
